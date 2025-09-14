@@ -1,4 +1,5 @@
 <img width="727" height="590" alt="Pendataan drawio" src="https://github.com/user-attachments/assets/9124eb07-0b7d-4f55-aa55-e81620fcb7b0" />
+
 Alur Pilihan Menu
 Pilihan 1: Masukan nama
 
@@ -22,7 +23,7 @@ Setelah data ditampilkan, proses juga berakhir di Selesai, yang kemungkinan meng
 
 Pilihan 3: Keluar
 
-Memilih opsi ini akan menghentikan program dan menampilkan pesan "Program selesai". Ini adalah salah satu titik akhir dari flowchart.
+Memilih opsi ini akan menghentikan program dan menampilkan pesan "Program selesai". Ini adalah akhir dari flowchart.
 
 Pilihan Lain (lebih dari 3)
 
