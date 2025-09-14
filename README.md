@@ -29,3 +29,6 @@ Pilihan Lain (lebih dari 3)
 Jika pengguna memasukkan angka yang bukan 1, 2, atau 3, sistem akan menampilkan pesan "Pilihan invalid".
 
 Setelah itu, proses kembali ke Tampilan Menu, meminta pengguna untuk memasukkan pilihan yang benar.
+
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3a37c791-b718-4c01-81c5-4a1af9f4c52b" />
+
