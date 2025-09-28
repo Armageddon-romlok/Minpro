@@ -1,4 +1,5 @@
-<img width="727" height="590" alt="Pendataan drawio" src="https://github.com/user-attachments/assets/9124eb07-0b7d-4f55-aa55-e81620fcb7b0" />
+<img width="991" height="1057" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/4c37ad02-8cd3-4cb2-95a1-c6202957fcb2" />
+
 
 Alur Pilihan Menu
 Pilihan 1: Masukan nama
